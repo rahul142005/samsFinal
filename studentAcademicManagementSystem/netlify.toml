@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/htmlFiles/preLog/homepage.html"
+status = 200
